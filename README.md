@@ -19,7 +19,7 @@ Enter row (0-9): 3 Enter column (0-9): 4 Current board: ■ ■ ■ ■ ■ ■ 
  
 ## How to Run:  
 1. Clone the repository:  
-   ```bash 
+   ```bash  
    git clone https://github.com/your-username/minesweeper-game.git 
 cd minesweeper-game
 
