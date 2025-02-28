@@ -18,7 +18,7 @@ This is a simple, text-based version of the classic Minesweeper game written in 
 Enter row (0-9): 3 Enter column (0-9): 4 Current board: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ 1 ■ ■ ■ ■ ■ ■ ■ ■ 2 ■ ■ ■ ■ ■ ■ ■ ■ 3 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
  
 ## How to Run:  
-1. Clone the repository:  
+1. Clone the repository:   
    ```bash  
    git clone https://github.com/your-username/minesweeper-game.git 
 cd minesweeper-game
