@@ -7,7 +7,7 @@ This is a simple, text-based version of the classic Minesweeper game written in 
 - Randomly placed mines on a grid.
 - Clickable cells to reveal safe areas or trigger mines.
 - Recursive opening of cells with no neighboring mines.
-- Checks for a win when all non-mine cells are revealed.
+- Checks for a win when all non-mine cells are revealed. 
 
 ## How to Play:
 1. The game will display a grid of cells. Your task is to uncover the cells by entering the row and column coordinates.
