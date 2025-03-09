@@ -14,7 +14,7 @@ This is a simple, text-based version of the classic Minesweeper game written in 
 2. If you uncover a cell with a mine, you lose the game. 
 3. If you uncover all non-mine cells, you win the game!    
  
-### Example Game Flow:
+### Example Game Flow: 
 Enter row (0-9): 3 Enter column (0-9): 4 Current board: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ 1 ■ ■ ■ ■ ■ ■ ■ ■ 2 ■ ■ ■ ■ ■ ■ ■ ■ 3 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
   
 ## How to Run:     
